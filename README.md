@@ -71,7 +71,7 @@ python reindex_turbo.py -i slashdot_new.txt -w slashdot_reidnex.txt -l -m -s
 
 I have implemented a simple test on Slashdot dataset (https://snap.stanford.edu/data/soc-Slashdot0811.html) which shows the turbo methods is more than 200 times faster than the method based on index() function and lists (reindex_slow.py)
 
-![turbo_perform](/Users/ron/Desktop/turbo_perform.png)
+[![turbo-perform.png](https://i.postimg.cc/D0vPgnCs/turbo-perform.png)](https://postimg.cc/dkfCQPct)
 
 
 
