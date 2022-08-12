@@ -1,4 +1,6 @@
-### Graph Re-index Turbo
+# Graph Reindex Turbo
+
+
 
 This is a effecient script used to reindex vertex ids to be continuous (0/1 ~ node_num-1/node_num) for graph datset pre-processing. Besides, there is a full edition which can remove self-loops and multi-edges to gennerate a simple graph. 
 
