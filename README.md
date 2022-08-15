@@ -2,7 +2,7 @@
 
 
 
-This is a efficient script used to reindex vertex ids to be continuous (0/1 ~ node_num-1/node_num) for graph datset pre-processing. Besides, there is a full edition which can remove self-loops and multi-edges to gennerate a simple graph. 
+This is an efficient script used to reindex vertex ids to be continuous (0/1 ~ node_num-1/node_num) for graph datset pre-processing. Besides, there is a full edition which can remove self-loops and multi-edges to gennerate a simple graph. 
 
 According to the experiment, the Re-index Turbo method based on hashmaps is more than 200 times faster than the method based on index() function and lists. 
 
